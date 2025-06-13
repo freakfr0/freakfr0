@@ -127,7 +127,7 @@ me.say_hi()
 </p>
 
 ## 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AxZeRxD&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=freakfr0&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
