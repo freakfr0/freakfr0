@@ -14,7 +14,7 @@
 
 ## 🎭 Profile Stats & Achievements
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=freakfr0&countColorcountColor&countColor=%23FF0000" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=freakfr0&countColorcountColor&countColor=%23FF0000" alt="Profile Views" />a
   <img src="https://img.shields.io/github/followers/freakfr0?color=FF0000&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/freakfr0?color=FF0000&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
 </p>
