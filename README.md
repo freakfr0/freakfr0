@@ -112,17 +112,17 @@ me.say_hi()
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AxZeRxD&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxZeRxD&layout=compact&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=freakfr0&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakft0&layout=compact&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AxZeRxD&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=freakfr0theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Streak Stats"/>
 </div>
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AxZeRxD&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=freakfr0&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ## 📈 Contribution Graph
