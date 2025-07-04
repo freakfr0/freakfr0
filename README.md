@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/989447136036941844?idleMessage=I'm%20Currently%20Working%20On%20TitanV4%20Multitool%20!!!&theme=dark)](https://discord.com/users/989447136036941844)
+mg src="https://tryhackme-badges.s3.amazonaws.com/freak.fr.png" alt="Your Image Badge" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;I'm+Freak;Crafting+Digital+Solutions" alt="Typing SVG" />
