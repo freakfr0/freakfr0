@@ -1,5 +1,5 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/freak.fr.png" alt="Your Image Badge" />
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5043672" style='border:none;'></iframe>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;I'm+Freak;Crafting+Digital+Solutions" alt="Typing SVG" />
 </div>
