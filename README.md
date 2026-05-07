@@ -1,5 +1,9 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/freakfr0.png" alt="TryHackMe Badge" />
 
+<p align="left">
+  <img align="left" height="260" src="https://lanyard.kyrie25.dev/api/989447136036941844?animatedDecoration=true&showDisplayName=true&forceGradient=false&hideDecoration=false&hideProfile=false&hideNameplate=false&hideTimestamp=false&bg=0&gradient=FFFFFF&waveSpotifyColor=FFFFFF&showBanner=animated&theme=light&clanbg=ADADAD&waveColor=FFFFFF)](https://discord.com/users/989447136036941844"/>
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;I'm+Freak;Crafting+Digital+Solutions" alt="Typing SVG" />
 </div>
