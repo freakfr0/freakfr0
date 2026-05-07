@@ -12,7 +12,8 @@
 
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-    🚀 Full Stack Developer | 🐍 Python Specialist | 🐞 BugBounter
+              
+🚀 Full Stack Developer | 🐍 Python Specialist | 🐞 BugBounter
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
