@@ -115,10 +115,6 @@ me.say_hi()
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakfr0&layout=compact&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=freakfr0&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Streak Stats"/>
 </div>
 
