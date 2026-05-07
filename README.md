@@ -5,17 +5,8 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;I'm+Freak;Crafting+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=I'm+Freak;CTF+Expert+%26+Bug+Bounter" alt="Typing SVG" />
 </div>
-
-
-
-<h3 align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-              
-🚀 Full Stack Developer | 🐍 Python Specialist | 🐞 BugBounter
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 ## 🎭 Profile Stats & Achievements
 <p align="center">
@@ -134,5 +125,5 @@ me.say_hi()
 </div>
 
 <h3 align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
 </h3>
