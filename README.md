@@ -1,7 +1,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/freakfr0.png" alt="TryHackMe Badge" />
 
 <p align="left">
-  <img align="left" height="260" src="https://lanyard.kyrie25.dev/api/989447136036941844?animatedDecoration=true&showDisplayName=true&forceGradient=false&hideDecoration=false&hideProfile=false&hideNameplate=false&hideTimestamp=false&bg=0&gradient=FFFFFF&waveSpotifyColor=FFFFFF&showBanner=animated&theme=light&clanbg=ADADAD&waveColor=FFFFFF)](https://discord.com/users/989447136036941844"/>
+  <img align="left" height="260" src="[![Discord Presence](https://lanyard.kyrie25.dev/api/989447136036941844?bg=F&gradient=FFF&animatedDecoration=true&showDisplayName=true&forceGradient=false&clanbg=F&showBanner=animated)](https://discord.com/users/989447136036941844)"/>
 </p>
 
 <div align="center">
