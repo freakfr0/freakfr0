@@ -107,7 +107,7 @@ me.say_hi()
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=freakfr0&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=freakfr0&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000%22%20alt=%22Streak%20Stats"/>
 </div>
 
 ## 🏆 GitHub Achievements
