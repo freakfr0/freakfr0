@@ -117,7 +117,7 @@ me.say_hi()
 </p>
 
 ## 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=freakfr0&bg_color=000000&color=ffffff&line=D3D3D3&point=ffffff&area=true&hide_border=true))
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=freakfr0&bg_color=000000&color=ffffff&line=D3D3D3&point=ffffff&area=true&hide_border=true)
 
 <div align="center">
   <h4> "Code is poetry written in logic" /h4>
