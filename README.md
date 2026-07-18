@@ -25,7 +25,7 @@ class Developer:
         self.name = "Freak"
         self.role = "BugHunter"
         self.language_spoken = ["hi_IN", "en_US"]
-        self.current_work = "Python Development Projects"
+        self.current_work = "Python & C# Development Projects"
         self.learning = "Reverse Engineering"
         
     def say_hi(self):
