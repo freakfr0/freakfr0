@@ -36,7 +36,6 @@ me.say_hi()
 ```
 
 - 🔭 Currently crafting: **Next-Gen Python Solutions**
-- 🌱 Exploring: **Cloud Architecture & DevOps**
 - 👯 Open to: **Innovative Collaborations**
 - 💡 Passionate about: **Clean Code & Best Practices**
 - ⚡ Fun fact: **I debug with rubber ducks! 🦆**
