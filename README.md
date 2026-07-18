@@ -23,13 +23,13 @@
 class Developer:
     def __init__(self):
         self.name = "Freak"
-        self.role = "Full Stack Developer"
+        self.role = "BugHunter"
         self.language_spoken = ["hi_IN", "en_US"]
         self.current_work = "Python Development Projects"
-        self.learning = "Advanced Cloud Technologies"
+        self.learning = "Reverse Engineering"
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print("Thanks for dropping by!")
 
 me = Developer()
 me.say_hi()
